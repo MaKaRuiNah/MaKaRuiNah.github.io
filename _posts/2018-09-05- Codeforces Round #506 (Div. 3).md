@@ -1,5 +1,5 @@
 ---
-title: Codeforces Round #506 (Div. 3)
+title: Codeforces Round#506(Div.3)
 date: 2018-09-05 20:47:12
 updated: 2018-09-05 23:00:00
 description: 1029 A,B,C,D,E,F题解报告
